@@ -35,6 +35,8 @@
 		<Unit filename="histogram.cpp" />
 		<Unit filename="histogram.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="myinput.cpp" />
+		<Unit filename="myinput.h" />
 		<Unit filename="svg.cpp" />
 		<Unit filename="svg.h" />
 		<Extensions>

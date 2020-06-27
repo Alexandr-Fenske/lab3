@@ -8,6 +8,6 @@ void svg_end();
 void svg_rect(double x, double y, double width, double height, string stroke, string fill);
 void svg_text(double left, double baseline, string text);
 void show_histogram_svg(const vector<size_t>& bins);
-
+string text_decoration18(size_t bin);
 
 #endif // SVG_H_INCLUDED

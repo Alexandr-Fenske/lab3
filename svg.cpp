@@ -59,8 +59,8 @@ void show_histogram_svg(const vector<size_t>& bins)
     const auto GRAPH_WIDTH = IMAGE_WIDTH-TEXT_WIDTH;
     svg_begin(IMAGE_WIDTH, IMAGE_HEIGHT);
     double top = 0;
-    string stroke="black";
-    string fill="blue";
+    string stroke="gold";
+    string fill="maroon";
     size_t max_count = 0;
     for (size_t count : bins)
     {
